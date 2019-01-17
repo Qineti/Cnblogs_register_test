@@ -1,19 +1,32 @@
-#coding:utf-8
-import unittest
-import time
+# coding=utf-8
+'''
+Created on 2016-7-22
+@author: Jennifer
+Project:登录百度测试用例
+'''
+from selenium import webdriver
+import unittest, time
 
-class Test(unittest.TestCase):
-    @classmethod
-    def setUpClass(cls):
-        print("开始测试")
+
+class BaiduTest(unittest.TestCase):
+    def setUp(self):
+        self.driver = webdriver.Firefox()
+        self.driver.implicitly_wait(30)  # 隐性等待时间为30秒
+        self.base_url = "https://www.baidu.com"
+
+    def test_baidu(self):
+        driver = self.driver
+        driver.get(self.base_url + "/")
+        driver.find_element_by_id("kw").clear()
+        driver.find_element_by_id("kw").send_keys("unittest")
+        driver.find_element_by_id("su").click()
+        time.sleep(3)
+        title = driver.title
+        self.assertEqual(title, u"unittest_百度搜索")
+
     def tearDown(self):
-        print("测试结束")
-    def test01(self):
-        '''测试0201'''
-        print("执行测试用例1")
-    def test02(self):
-        '''测试0202'''
-        print("执行测试用例02")
+        self.driver.quit()
 
-if __name__=="__main__":
+
+if __name__ == "__main__":
     unittest.main()
