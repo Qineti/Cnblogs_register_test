@@ -1,0 +1,278 @@
+1547618375063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.yeX0O6CF8ZXV"
+1547618375829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547618375830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Child 7692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1547618378392	Marionette	INFO	Listening on port 57589
+1547618378433	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 10696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, l[Child 11ine 3467
+24, Chrome_[Child C7h252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11724, Chrome_ChildT[Child 2244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2244, Chrome_Chi1547618563282	Marionette	INFO	Stopped listening on port 57589
+[GPU 11840, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[0x7FFECE675060] ANOMALY: meaningless REX prefix used
+[0x7FFECE6750A0] ANOMALY: meaningless REX prefix used
+[0x7FFECE675240] ANOMALY: meaningless REX prefix used
+[0x7FFECE673630] ANOMALY: meaningless REX prefix used
+[0x7FFECE6720A0] ANOMALY: meaningless REX prefix used
+pe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11608,[1547618563275	Marionette	INFO	Stopped listening on port 57635
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[0x7FFECE675060] ANOMALY: meaningless REX prefix used
+[0x7FFECE6750A0] ANOMALY: meaningless REX prefix used
+[0x7FFECE675240] ANOMALY: meaningless REX prefix used
+[0x7FFECE673630] ANOMALY: meaningless REX prefix used
+[0x7FFECE6720A0] ANOMALY: meaningless REX prefix used
+346
+[Child 12568,[Parent 12504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12704, Chrome_C[Parent 12504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12460, C1547618563099	Marionette	INFO	Stopped listening on port 57676
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 12720, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[0x7FFECE675060] ANOMALY: meaningless REX prefix used
+[0x7FFECE6750A0] ANOMALY: meaningless REX prefix used
+[0x7FFECE675240] ANOMALY: meaningless REX prefix used
+[0x7FFECE673630] ANOMALY: meaningless REX prefix used
+[0x7FFECE6720A0] ANOMALY: meaningless REX prefix used
+hrea[Child 13672, Cd] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11692, Chrome_ChildThrea[Parent 13740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[1547618562860	Marionette	INFO	Stopped listening on port 57724
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[0x7FFECE675060] ANOMALY: meaningless REX prefix used
+[0x7FFECE6750A0] ANOMALY: meaningless REX prefix used
+[0x7FFECE675240] ANOMALY: meaningless REX prefix used
+[0x7FFECE673630] ANOMALY: meaningless REX prefix used
+[0x7FFECE6720A0] ANOMALY: meaningless REX prefix used
+hromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1466[Parent 11260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5780, 1547618560703	Marionette	INFO	Stopped listening on port 57770
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[0x7FFECE675060] ANOMALY: meaningless REX prefix used
+[0x7FFECE6750A0] ANOMALY: meaningless REX prefix used
+[0x7FFECE675240] ANOMALY: meaningless REX prefix used
+[0x7FFECE673630] ANOMALY: meaningless REX prefix used
+[0x7FFECE6720A0] ANOMALY: meaningless REX prefix used
+1547691672804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.WzIZibv6Np43"
+1547691673552	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547691673552	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Child 15632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15632, C1547691676380	Marionette	INFO	Listening on port 53161
+1547691676650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 13624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14760[Parent 13624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1547691687343	Marionette	INFO	Stopped listening on port 53161
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[0x7FFFC0095060] ANOMALY: meaningless REX prefix used
+[0x7FFFC00950A0] ANOMALY: meaningless REX prefix used
+[0x7FFFC0095240] ANOMALY: meaningless REX prefix used
+[0x7FFFC0093630] ANOMALY: meaningless REX prefix used
+[0x7FFFC00920A0] ANOMALY: meaningless REX prefix used
+1547691692561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.meF9fU7UAaZu"
+1547691693283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547691693283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Child 6200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6200, Chrom1547691696017	Marionette	INFO	Listening on port 53207
+1547691696406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 12368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8880, Chrome_ChildThread] WARNING:[Child 12840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12840, Chrome_C[Parent 12368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16136, Chrome_ChildThread] WARNING: pipe error: 109: fi1547691889090	Marionette	INFO	Stopped listening on port 53207
+[GP
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+U 20
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[0x7FFFC0095060] ANOMALY: meaningless REX prefix used
+[0x7FFFC00950A0] ANOMALY: meaningless REX prefix used
+[0x7FFFC0095240] ANOMALY: meaningless REX prefix used
+[0x7FFFC0093630] ANOMALY: meaningless REX prefix used
+[0x7FFFC00920A0] ANOMALY: meaningless REX prefix used
+Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1547691889024	Marionette	INFO	Stopped listening on port 53251
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[0x7FFFC0095060] ANOMALY: meaningless REX prefix used
+[0x7FFFC00950A0] ANOMALY: meaningless REX prefix used
+[0x7FFFC0095240] ANOMALY: meaningless REX prefix used
+[0x7FFFC0093630] ANOMALY: meaningless REX prefix used
+[0x7FFFC00920A0] ANOMALY: meaningless REX prefix used
+IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1444, Chrome_ChildT[Child 9152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9152, Chrome_ChildThread] WARNING: pipe error: 109: fil1547691889006	Marionette	INFO	Stopped listening on port 53304
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 3932,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[0x7FFFC0095060] ANOMALY: meaningless REX prefix used
+[0x7FFFC00950A0] ANOMALY: meaningless REX prefix used
+[0x7FFFC0095240] ANOMALY: meaningless REX prefix used
+[0x7FFFC0093630] ANOMALY: meaningless REX prefix used
+[0x7FFFC00920A0] ANOMALY: meaningless REX prefix used
+NG: [pChilipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8732, Chrome_C1547691885841	Marionette	INFO	Stopped listening on port 53350
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[0x7FFFC0095060] ANOMALY: meaningless REX prefix used
+[0x7FFFC00950A0] ANOMALY: meaningless REX prefix used
+[0x7FFFC0095240] ANOMALY: meaningless REX prefix used
+[0x7FFFC0093630] ANOMALY: meaningless REX prefix used
+[0x7FFFC00920A0] ANOMALY: meaningless REX prefix used
+1547692047656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.VcYoh6z8lfBc"
+1547692048391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547692048391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Child 11296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11296, Chrome_Chi1547692051118	Marionette	INFO	Listening on port 53536
+1547692051498	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3364, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 3364, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3364, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15260, Chrome_ChildThread] WAR[Child 10548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10548, Chrome_Ch[Parent 3364, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14884, C1547692137995	Marionette	INFO	Stopped listening on port 53536
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 14652, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[0x7FFFC0095060] ANOMALY: meaningless REX prefix used
+[0x7FFFC00950A0] ANOMALY: meaningless REX prefix used
+[0x7FFFC0095240] ANOMALY: meaningless REX prefix used
+[0x7FFFC0093630] ANOMALY: meaningless REX prefix used
+[0x7FFFC00920A0] ANOMALY: meaningless REX prefix used
+46
+[Child 14128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 141547692137990	Marionette	INFO	Stopped listening on port 53577
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[0x7FFFC0095060] ANOMALY: meaningless REX prefix used
+[0x7FFFC00950A0] ANOMALY: meaningless REX prefix used
+[0x7FFFC0095240] ANOMALY: meaningless REX prefix used
+[0x7FFFC0093630] ANOMALY: meaningless REX prefix used
+[0x7FFFC00920A0] ANOMALY: meaningless REX prefix used
+dThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12024, C[Parent 15272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 134961547692135530	Marionette	INFO	Stopped listening on port 53622
+[GPU 160
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[0x7FFFC0095060] ANOMALY: meaningless REX prefix used
+[0x7FFFC00950A0] ANOMALY: meaningless REX prefix used
+[0x7FFFC0095240] ANOMALY: meaningless REX prefix used
+[0x7FFFC0093630] ANOMALY: meaningless REX prefix used
+[0x7FFFC00920A0] ANOMALY: meaningless REX prefix used
+1547692248768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.XEzbnW1UoABk"
+1547692249525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547692249525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Child 12828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12828, C1547692252425	Marionette	INFO	Listening on port 53758
+1547692252616	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14708, Chrome_JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 12232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1547692655928	Marionette	INFO	Stopped listening on port 53758
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 9848, Chrome_ChildThread] WARNING: pipe error: 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[0x7FFFC0095060] ANOMALY: meaningless REX prefix used
+[0x7FFFC00950A0] ANOMALY: meaningless REX prefix used
+[0x7FFFC0095240] ANOMALY: meaningless REX prefix used
+[0x7FFFC0093630] ANOMALY: meaningless REX prefix used
+[0x7FFFC00920A0] ANOMALY: meaningless REX prefix used
+el error: cannot send/recv
+
+[0x7FFFC0095060] ANOMALY: meaningless REX prefix used
+[0x7FFFC00950A0] ANOMALY: meaningless REX prefix used
+[0x7FFFC0095240] ANOMALY: meaningless REX prefix used
+[0x7FFFC0093630] ANOMALY: meaningless REX prefix used
+[0x7FFFC00920A0] ANOMALY: meaningless REX prefix used
+ile z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_c[hCahninlel_win.cc, line 346d
+ 6428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6428, Chrome_ChildThread] WARNING: pipe error: 11547692655937	Marionette	INFO	Stopped listening on port 53849
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[0x7FFFC0095060] ANOMALY: meaningless REX prefix used
+[0x7FFFC00950A0] ANOMALY: meaningless REX prefix used
+[0x7FFFC0095240] ANOMALY: meaningless REX prefix used
+[0x7FFFC0093630] ANOMALY: meaningless REX prefix used
+[0x7FFFC00920A0] ANOMALY: meaningless REX prefix used
+rent 12476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 105761547692655936	Marionette	INFO	Stopped listening on port 53891
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[0x7FFFC0095060] ANOMALY: meaningless REX prefix used
+[0x7FFFC00950A0] ANOMALY: meaningless REX prefix used
+[0x7FFFC0095240] ANOMALY: meaningless REX prefix used
+[0x7FFFC0093630] ANOMALY: meaningless REX prefix used
+[0x7FFFC00920A0] ANOMALY: meaningless REX prefix used
