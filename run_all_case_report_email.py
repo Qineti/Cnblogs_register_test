@@ -38,7 +38,7 @@ if __name__ == "__main__":
     test_dir = "./case" #测试用例存放目录
     test_report = "./report"#测试报告存放目录
     discover = unittest.defaultTestLoader.discover(test_dir,
-                                                   pattern='test*.py')
+                                                   pattern='test_*.py')
     now = time.strftime("%Y-%m-%d_%H-%M-%S")
     filename = test_report + '\\' + now + 'result.html'
     fp = open(filename, 'wb')
