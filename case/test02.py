@@ -22,20 +22,20 @@ class Test(unittest.TestCase):
         self.dr.find_element_by_id('input2').send_keys(password)
         self.dr.find_element_by_id('signin').click()
 
-    # def test_login_success(self):
-    #     '''用户名、密码正确'''
-    #     self.login('absout', '5864239.qi')  # 正确用户名和密码
-    #     time.sleep(10)              #这里等待10秒的原因是由于cnblog存在验证机制，不想在验证码上花过多时间写代码，博主在等待时间手动处理。
-    #     link = self.dr.find_element_by_id('lnk_current_user')
-    #     self.assertTrue('absout' in link.text)  # 用assertTrue(x)方法来断言  bool(x) is True 登录成功后用户昵称在lnk_current_user里
+    def test_login_success(self):
+        '''用户名、密码正确'''
+        self.login('absout', '5864239.qi')  # 正确用户名和密码
+        time.sleep(10)              #这里等待10秒的原因是由于cnblog存在验证机制，不想在验证码上花过多时间写代码，博主在等待时间手动处理。
+        link = self.dr.find_element_by_id("lnk_current_user")
+        self.assertTrue('Qineti' in link.text)  # 用assertTrue(x)方法来断言  bool(x) is True 登录成功后用户昵称在lnk_current_user里
 
-    # def test_login_pwd_error(self):
-    #     '''用户名正确、密码不正确'''
-    #     self.login('absout', '123456')  # 正确用户名，错误密码
-    #     time.sleep(10) #这里等待10秒的原因是由于cnblog存在验证机制，不想在验证码上花过多时间写代码，博主在等待时间手动处理。
-    #     error_message = self.dr.find_element_by_id('tip_btn').text
-    #     self.assertIn('用户名或密码错误', error_message)  # 用assertIn(a,b)方法来断言 a in b  '用户名或密码错误'在error_message里
-    #     self.dr.get_screenshot_as_file("D:\workspace\logintest\img\\login_pwd_error.png")
+    def test_login_pwd_error(self):
+        '''用户名正确、密码不正确'''
+        self.login('absout', '123456')  # 正确用户名，错误密码
+        time.sleep(10) #这里等待10秒的原因是由于cnblog存在验证机制，不想在验证码上花过多时间写代码，博主在等待时间手动处理。
+        error_message = self.dr.find_element_by_id('tip_btn').text
+        self.assertIn('用户名或密码错误', error_message)  # 用assertIn(a,b)方法来断言 a in b  '用户名或密码错误'在error_message里
+        self.dr.get_screenshot_as_file("D:\workspace\logintest\img\\login_pwd_error.png")
 
     def test_login_pwd_null(self):
         '''用户名正确、密码为空'''
